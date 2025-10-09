@@ -1,5 +1,5 @@
 # "Experience"
-idk
+someone called me a virtual infrastructure lead once, idk
 # Currently Learning
 - rats (those lil cheese eating gray guys)
 - applications
