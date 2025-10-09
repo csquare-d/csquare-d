@@ -1,5 +1,5 @@
 # "Experience"
-someone called me a virtual infrastructure lead once, idk
+someone called me a virtual infrastructure lead once, idk. tried threat hunting but learned the threats are hunting us actually.
 # Currently Learning
 - rats (those lil cheese eating gray guys)
 - applications
